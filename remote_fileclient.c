@@ -8,6 +8,9 @@
 #include <fcntl.h>
 #include <sys/types.h>
 
+/*
+Note and Citation: the client and server for remote file access is adapted from a chat bot program from geekforgeek.com
+*/
 
 #define MAX 80 
 #define PORT 50027 
